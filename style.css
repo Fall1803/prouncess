@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+   background-image:url(mama\ princess.png);
+   background-size: 100%
+  }
+h1{
+    font: size 5em;
+    color:rgb(250, 10, 10);
+}
+div{
+    text-align: center;
+    font-size: 2em;
+    color:bisque;
+}
+.M{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(233, 8, 19);
+}
